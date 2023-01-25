@@ -1,0 +1,10 @@
+1. Untuk membuat KTP baru
+2. Untuk membuat kartu keluarga
+3. Untuk membuat akte kelahiran
+4. Untuk membuat surat pindah/keluar
+5. Untuk membuat surat pindah datang
+6. Untuk membuat surat nikah
+7. Untuk membuat surat pengantar kematian
+8. Untuk membuat SKCK
+9. Untuk membuat surat keterangan usaha (SKU)
+10. Untuk membuat surat keterangan tempat tinggal
